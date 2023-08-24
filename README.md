@@ -3,11 +3,11 @@
 Some description!!
 
 
-### Subheader
+## Subheader
 
 Complete git assignment
 
 
-## Local Development
+### Local Development
 
 1. Open index.html in your browser.
